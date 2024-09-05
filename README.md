@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Java**
 
+- 📔I’m currently Reading **Head First Java**
+
 - 👯 I’m looking to collaborate on [Java Projects](https://github.com/topics/java)
 
 - 👨‍💻 All of my projects are available at [yassiraitelghari.dev](https://yassiraitelghari.dev)
