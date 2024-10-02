@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YASSIR AIT EL GHARI</h1>
 <h3 align="center">A passionate full stack developer from MOROCCO</h3>
 
-- 🔭 I’m currently working on [MovieRating](https://github.com/tdevintw/MovieRating)
+- 🔭 I’m currently working on [DevSync](https://github.com/tdevintw/devsync)
 
 - 🌱 I’m currently learning **Java**
 
