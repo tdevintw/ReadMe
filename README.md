@@ -30,7 +30,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p>
     <img src="https://skillicons.dev/icons?i=bootstrap,css,git,github,html,idea,java,js,laravel,mysql,php,postman,react,tailwind,vscode," height="100" alt="html5 logo"  />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Jakarta_ee_logo_schooner_color_stacked_default.svg/768px-Jakarta_ee_logo_schooner_color_stacked_default.svg.png?20200710164023" height="100" alt="Jakarta EE" />
 </p>
